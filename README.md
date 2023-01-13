@@ -69,6 +69,4 @@ A step by step series of examples that tell you how to get a development env run
 - [Redux](https://redux.js.org/) - State management tool
 - [React-Router](https://reactrouterdotcom.fly.dev/docs/en/v6) - Routing app
 - [sass](https://sass-lang.com/) - css extension
-## ✍️ Authors <a name = "authors"></a>
 
-- [@menoo20](https://github.com/menoo20) - Solo work
